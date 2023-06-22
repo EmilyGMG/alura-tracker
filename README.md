@@ -1,5 +1,3 @@
-# alura-tracker
-
 ## Project setup
 ```
 npm install
