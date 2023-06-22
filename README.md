@@ -3,22 +3,10 @@
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
+Description:
+This project is a task tracker , that you can put your task and start the tracker and finish, after you stop the task, this task will be in a list bellow together with all tasks that you did before.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![2023-06-22-15-08-10(1)](https://github.com/EmilyGMG/alura-tracker/assets/36648933/a27ae84d-e6bf-4599-a031-8630c2bc870e)
